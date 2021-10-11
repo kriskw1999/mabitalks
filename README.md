@@ -1,0 +1,2 @@
+# Projetto svolto da Krzysztof Witkowski
+Questo progetto l'ho svolto appoggiandomi ad un server express usando node, l'intera applicazione puo essere lanciata tramite il comando npm start dalla cartella principle. Questo comando lancia contemporaneamente il server, che manda la richiesta di dati al server esterno, e il frontend react.
